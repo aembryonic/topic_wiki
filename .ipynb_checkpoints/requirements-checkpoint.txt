@@ -1,6 +1,0 @@
-pandas
-gensim
-wikipediaapi
-nltk
-pyldavis
-wordcloud
